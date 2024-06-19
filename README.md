@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on building a voting app with complete backend.<br>Learning basics to become a backend engineer but also leaning towards data science.
+🔭Currently working on building a voting app with complete backend to learn everything about backend and deployment.<br>🪴IWhit an interest in ML and Data Science, I am curious to learn, explore and deep dive in these fields as well.
 
 
 ## 🌐 Socials:
