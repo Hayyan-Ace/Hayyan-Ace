@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭An enthusiastic software engineer with hands-on experience in backend, machine learning, data science and mobile 
-development, excelling in problem-solving and coding with pure determination and a hint of caffeine-fueled genius.
-With an interest in ML and Data Science, I am curious to learn, explore and deep dive in these fields as well.
+❔An enthusiastic software engineer with hands-on experience in backend, machine learning, data science and mobile 
+development, excelling in problem-solving and coding with pure determination and a hint of caffeine-fueled genius.<br>
+🪴With a stupendous interest in just doing cool things, I am curious to learn, explore and deep dive in everything as well.<br>
+🔭Currently working on cool things to learn everything about backend and deployment.
 
-Currently working on cool things to learn everything about backend and deployment.<br>🪴
+
 
 
 ## 🌐 Socials:
